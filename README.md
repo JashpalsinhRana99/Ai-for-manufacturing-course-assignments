@@ -8,7 +8,7 @@ This repository serves as my expedition log, chronicling the journey through Int
 
 Each week, we venture into new territory, mapping out AI's potential:
 
-**Week 1: Introduction to AI for Manufacturing** - [Topic: Introduction to AI for manufacturing and use cases of AI in manufacturing] -> ([Ai-for-manufacturing-course-assignments/Week 1 Assignment/](Ai-for-manufacturing-course-assignments/Week%201%20Assignment/))
+**Week 1: Introduction to AI for Manufacturing** - [Topic: Introduction to AI for manufacturing and use cases of AI in manufacturing] -> ([Ai-for-manufacturing-course-assignments/Week 1 Assignment/](https://github.com/JashpalsinhRana99/Ai-for-manufacturing-course-assignments/tree/main/Week%201%20Assignment))
 
 **Week 2: Introduction to AI Programming** - [Topic: Basic Python language and basics of Python libraries] -> ([Ai-for-manufacturing-course-assignments/Week 2 Assignment/](Ai-for-manufacturing-course-assignments/Week%202%20Assignment/))
 
