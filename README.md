@@ -26,6 +26,6 @@ Our toolkit for this expedition includes [Python, Pandas, Scikit-learn, Numpy, M
 
 I'm Jashpalsinh Rana, navigating the exciting developments where AI technology enhances industrial efficiency and capability. Follow my progress here!
 
-[Connect on LinkedIn](www.linkedin.com/in/jashpalsinh-rana-a87b58292)
+[Connect on LinkedIn]( https://www.linkedin.com/in/jashpalsinh-rana-a87b58292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 **Disclaimer:** This logbook contains personal solutions and insights developed during the Intel AI for Manufacturing course.
