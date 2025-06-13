@@ -29,3 +29,4 @@ I'm Jashpalsinh Rana, navigating the exciting developments where AI technology e
 [Connect on LinkedIn]( https://www.linkedin.com/in/jashpalsinh-rana-a87b58292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 **Disclaimer:** This logbook contains personal solutions and insights developed during the Intel AI for Manufacturing course.
+# Ai-for-manufacturing-course-assignments
